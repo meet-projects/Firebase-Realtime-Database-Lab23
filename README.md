@@ -65,7 +65,7 @@ As well as the structure of the database.
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is pushed.
+If not, make sure you submit your code here.
 
 
 <img src="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/888/cached.offlinehbpl.hbpl.co.uk/news/ORP/wendysMAIN-20200206101134487.png" width="400">
@@ -81,6 +81,6 @@ If not, make sure your code is pushed.
     - It should add 1 like to a specific `tweet`, everytime a like button has been clicked using the database.   
     
 ##### Great job on completing the bonus problems section!  
-###### Make sure your code is pushed to GitHub!
+### Make sure you submit your code here
 
 
